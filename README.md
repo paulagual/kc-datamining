@@ -1,1 +1,2 @@
-# kc-datamining
+# Práctica data mining
+Paula Gual
